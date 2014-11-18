@@ -1,5 +1,8 @@
 package com.Project.AI;
-
+/*
+* @author kuunwar
+*Data structure 
+*/
 public class sorting implements Comparable<sorting>{
 	String word;
 	float hamCount;
